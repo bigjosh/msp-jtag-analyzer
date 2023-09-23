@@ -1,0 +1,13 @@
+{
+  "name": "JTAG State Machine",
+  "apiVersion": "1.0.1",
+  "author": "josh levine",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "JTAG State Machine": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
